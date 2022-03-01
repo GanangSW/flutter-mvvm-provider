@@ -1,0 +1,1 @@
+const String BASE_URL = 'https://catfact.ninja/fact';
